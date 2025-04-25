@@ -4,7 +4,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as RootNavigation from '../helpers/RootNavigation'; // asegúrate de tener esto (lo explico abajo)
 
 // Cambia esta URL por la de tu API
-const API_URL = 'https://5c36d0e5-e9b6-4bb0-888f-e57d6f571338-00-2i7rz9xf7vcjb.picard.replit.dev/api';
+const API_URL = 'https://ea850373-2826-4baf-9b8e-cdfea809902a-00-brfit0bk59uu.riker.replit.dev/api';
 
 const apiClient = axios.create({
   baseURL: API_URL,
